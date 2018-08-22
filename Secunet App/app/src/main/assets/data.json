@@ -1,0 +1,77 @@
+{
+  "info": {
+    "name": "David Martex",
+    "email": "davidmartex@gmail.com",
+    "phone": "+237673355947",
+    "password": "123martex123",
+    "bloodgroup": "A+",
+    "role": "P"
+  },
+  "data": {
+    "record": [
+      {
+        "date": "January 1st 2017",
+        "hospital": "Hopital Lakentini, Douala",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 1;diagnostics 2; diagnostics 3;diagnostics 4",
+        "prescriptions": "prescription 1;prescription 2;prescription 3;prescription 4"
+      },
+      {
+        "date": "March 21st 2017",
+        "hospital": "Hopital General, Yaounde",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 5;diagnostics 6; diagnostics 7;diagnostics 8",
+        "prescriptions": "prescription 5;prescription 6;prescription 7;prescription 8"
+      },
+      {
+        "date": "May 31st 2017",
+        "hospital": "Mbingo Baptist Hospital, Bamanda",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 9;diagnostics 10;diagnostics 11;diagnostics 12",
+        "prescriptions": "prescription 9;prescription 10;prescription 11;prescription 12"
+      },
+      {
+        "date": "July 2th 2017",
+        "hospital": "Regional Hospital , Baffoussam",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 13;diagnostics 14;diagnostics 15;diagnostics 16",
+        "prescriptions": "prescription 13;prescription 14;prescription 15;prescription 16"
+      },
+      {
+        "date": "September 4th 2017",
+        "hospital": "Regional Hospital , Buea",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 17;diagnostics 18;diagnostics 19;diagnostics 20",
+        "prescriptions": "prescription 17;prescription 18;prescription 19;prescription 20"
+      },
+      {
+        "date": "November 6th 2017",
+        "hospital": "St. Joseph Medical Center, Muyuka",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 21;diagnostics 22;diagnostics 23;diagnostics 24",
+        "prescriptions": "prescription 21;prescription 22;prescription 23;prescription 24"
+      },
+      {
+        "date": "February 8th 2018",
+        "hospital": "General Hospital , Garoua",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 25;diagnostics 26;diagnostics 27;diagnostics 28",
+        "prescriptions": "prescription 25;prescription 26;prescription 27;prescription 28"
+      },
+      {
+        "date": "April 10th 2018",
+        "hospital": "Solidarity Clinic, Buea",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 29;diagnostics 30;diagnostics 31;diagnostics 32",
+        "prescriptions": "prescription 29;prescription 30;prescription 31;prescription 32"
+      },
+      {
+        "date": "June 12th 2018",
+        "hospital": "Hopital Gyneco, Yaounde",
+        "hash": "0f9c8f89335fddf40682947d7a415d4f",
+        "diagnostics": "diagnostics 33;diagnostics 34;diagnostics 35;diagnostics 36",
+        "prescriptions": "prescription 33;prescription 34;prescription 35;prescription 36"
+      }
+    ]
+  }
+}
